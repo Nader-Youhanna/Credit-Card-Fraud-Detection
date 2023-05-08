@@ -1,0 +1,8 @@
+▪ Data preprocessing.  
+▪ Data visualization.  
+▪ Extracting insights from data.  
+▪ Model/Classifier training.
+▪ use hadoop or spark - map reduce
+▪ use assosiation rules
+▪ use azure - bonus
+▪ save mean and std dev of each column in a file
